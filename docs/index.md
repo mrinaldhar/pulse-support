@@ -1,6 +1,6 @@
 # Pulse
 
-Pulse is a calm, shared home app: kitchen, calendar, reminders and music in one place.
+Pulse is calm, shared home management: kitchen, groceries, reminders and the rhythm of your home in one place. The App Store listing is **Pulse - Home Management**.
 
 ## Contact
 

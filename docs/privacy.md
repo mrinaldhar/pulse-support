@@ -2,7 +2,7 @@
 
 Last updated: 3 November 2026
 
-Pulse is a shared home app for kitchen inventory, grocery lists, household reminders and planned calendar, wardrobe and music features.
+Pulse is a shared home management app for kitchen inventory, grocery lists, household reminders and planned calendar, wardrobe and music features.
 
 ## What stays on your device
 
